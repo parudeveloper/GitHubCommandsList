@@ -13,7 +13,5 @@ class MainActivityTwo : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainTwoBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
-        // This is 2nd commit to yerrabolu branch
     }
 }
